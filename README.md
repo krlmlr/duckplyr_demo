@@ -1,3 +1,5 @@
+Archived, see https://github.com/Tmonster/duckplyr_demo for the correct location.
+
 # Organization
 1. Getting Started
 
